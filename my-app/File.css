@@ -1,0 +1,57 @@
+body {
+
+input[type="Author"] {
+  id: "Author";
+  border: 2px solid #000;
+  margin: 0 0 1em 0;
+  padding: 10px;
+  width: 80%;
+}
+
+input[type="Title"]{
+  id: 'Title';
+    border: 3px solid #333;
+  background-color: #999;
+  border-radius: 5px;
+  padding: 10px 2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+
+input[type="Number_of_pages"] {
+    id: "Number_of_Pages";
+  border: 3px solid #333;
+  background-color: #eccdcd;
+  border-radius: 5px;
+  padding: 10px 2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+
+input[type="Price"]{
+
+    id: "Price";
+    border: 3px solid #333;
+    background-color: #eccdcd;
+    border-radius: 5px;
+    padding: 10px 2em;
+    font-weight: bold;
+    color: #fff;
+}
+textarea{
+    overflow:auto;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
